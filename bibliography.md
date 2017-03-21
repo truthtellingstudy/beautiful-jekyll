@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-# Bibliography 10
+## Bibliography 11
 
 J. Abeler. A reporting experiment with Chinese professionals. mimeo, 2015.
 
@@ -21,17 +21,17 @@ M. Antony, H. Gerhardt, and A. Falk. The impact of food and water deprivation on
 decision making. mimeo, 2016.
 
 Y. Arbel, R. Bar-El, E. Siniver, and Y. Tobol. Roll a die and tell a lie–what affects honesty?
-Journal of Economic Behavior & Organization, 107:153–172, 2014.
+Journal of Economic Behavior & Organization, 107:153–172, 2014.  
 D. Ariely, X. Garcia-Rada, L. Hornuf, and H. Mann. The (true) legacy of two really existing
-economic systems. University of Munich Discussion Paper, 2014.
+economic systems. University of Munich Discussion Paper, 2014.  
 G. Aydogan, A. Jobst, K. D’Ardenne, N. Müller, and M. Kocher. The detrimental effects of
 oxytocin-induced conformity on dishonesty in competition. Psychological Science, forth-
-coming.
+coming.  
 R. Banerjee, N. Datta Gupta, and M. C. Villeval. The spillover effects of affirmative action
-on competitiveness and unethical behavior. GATE Discussion Paper, 2016.
+on competitiveness and unethical behavior. GATE Discussion Paper, 2016.  
 S. Barfort, N. Harmon, F. Hjorth, and A. L. Olsen. Dishonesty and selection into public
 service in Denmark: Who runs the world’s least corrupt public service? University of
-Copenhagen Discussion Paper, 2015.
+Copenhagen Discussion Paper, 2015.  
 Z. Basic, A. Falk, and S. Quercia. The influence of self and social image concerns on lying.
 mimeo, 2016.
 D. Batson, D. Kobrynowicz, J. Dinnerstein, H. Kampf, and A. Wilson. In a very different
