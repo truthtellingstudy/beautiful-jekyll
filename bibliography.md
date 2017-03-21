@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## Bibliography 11
+## Bibliography
 
 J. Abeler. A reporting experiment with Chinese professionals. mimeo, 2015.
 
