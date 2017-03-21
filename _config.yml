@@ -24,9 +24,11 @@ description: Meta study of lying experiments
 # List of links in the navigation bar
 navbar-links:
   Main page: "index"
-  Methodology: "methodology"
-  Further reading: "further_reading"
-  Bibliography: "bibliography"
+  
+  Further reading: 
+    - Methodology: "methodology"
+    - Why do people lie: "further_reading"
+    - Bibliography: "bibliography"
   Contact: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
