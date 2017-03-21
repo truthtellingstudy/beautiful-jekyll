@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Truth-telling Study
+#title: Truth-telling Study
 
 # Short description of your site
 description: Meta study of lying experiments
@@ -30,10 +30,7 @@ navbar-links:
     - Why do people lie: "further_reading"
     - Bibliography: "bibliography"
   Contact: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+ 
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -49,7 +46,7 @@ avatar: "/img/website_title_figure3.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Johannes Abeler, Daniele Nosenzo, Collin Raymond
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -72,7 +69,7 @@ footer-links-active:
   email: true
   twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
