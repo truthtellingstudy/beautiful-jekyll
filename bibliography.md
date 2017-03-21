@@ -3,10 +3,10 @@ layout: page
 title: "Meta study"
 subtitle: Roll a die in private. Report your roll. We pay you whatever you report in
 css: "/css/index.css"
-bigimg: "/img/website_title_figure_wide2.png"
+bigimg: "/img/website_title_figure_wide.png"
 ---
 
 
-# Bibliography 8
+# Bibliography 9
 
 Gneezy (1995)
