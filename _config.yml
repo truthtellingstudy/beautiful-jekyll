@@ -24,6 +24,7 @@ description: Meta study of lying experiments
 # List of links in the navigation bar
 navbar-links:
   Main page: "index"
+  Methodology: "methodology"
   Further reading: "further_reading"
   Bibliography: "bibliography"
   Contact: "aboutme"
