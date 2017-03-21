@@ -6,14 +6,20 @@ layout: page
 # Bibliography 9
 
 J. Abeler. A reporting experiment with Chinese professionals. mimeo, 2015.
+
 J. Abeler and D. Nosenzo. Lying and other preferences. mimeo, 2015.
+
 J. Abeler, A. Becker, and A. Falk. Representative evidence on lying costs. Journal of Public
 Economics, 113:96–104, 2014.
+
 J. Abeler, D. Nosenzo, and C. Raymond. Preferences for truth-telling. mimeo, 2016.
+
 A. Amir, T. Kogut, and Y. Bereby-Meyer. Careful cheating: people cheat groups rather than
 individuals. Frontiers in Psychology, 7, 2016.
+
 M. Antony, H. Gerhardt, and A. Falk. The impact of food and water deprivation on economic
 decision making. mimeo, 2016.
+
 Y. Arbel, R. Bar-El, E. Siniver, and Y. Tobol. Roll a die and tell a lie–what affects honesty?
 Journal of Economic Behavior & Organization, 107:153–172, 2014.
 D. Ariely, X. Garcia-Rada, L. Hornuf, and H. Mann. The (true) legacy of two really existing
