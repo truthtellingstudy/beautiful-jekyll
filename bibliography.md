@@ -9,6 +9,6 @@ bigimg: "/img/website_title_figure.png"
 ---
 
 
-# Bibliography 2
+# Bibliography 3
 
 Gneezy (1995)
