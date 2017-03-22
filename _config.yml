@@ -29,6 +29,7 @@ navbar-links:
     - Methodology: "methodology"
     - Why do people lie: "further_reading"
     - Bibliography: "bibliography"
+    - Source code: "https://github.com/truthtellingstudy"
   Contact: "aboutme"
  
   
