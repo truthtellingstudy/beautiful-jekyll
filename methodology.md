@@ -1,8 +1,9 @@
 ---
+title: ""
 ---
 
 
-## Methodology
+### Methodology
 
 The meta study covers XXX experimental studies containing XXX treatment conditions. We include all studies using the setup introduced by Fischbacher & Föllmi-Heusi (2013), i.e., in which subjects conduct a random draw and then report their outcome of the draw. We require that the true draw is unknown to the experimenter but that the experimenter knows the distribution of the random draw. We also include studies in which subjects report whether their prediction of a random draw was correct (as in Jiang 2013). The payoff from reporting has to be independent of the actions of other subjects, but the reporting action can have an effect on other subjects. The expected payoff level must not be constant, e.g., no hypothetical studies, and subjects are not allowed to self-select into the reporting experiment after learning about the rules of the experiment. We only consider symmetric, single-peaked distributions (including uniform) but allow asymmetric two-state distributions. For more details on the selection process, see Appendix A of the paper.
 
