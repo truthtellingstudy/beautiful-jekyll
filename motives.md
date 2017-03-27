@@ -3,13 +3,13 @@ title: ""
 ---
 
 
-### Further reading
+### Why do people lie (or rather: lie so little)
 
-In the [research paper](http://ftp.iza.org/dp10188.pdf) on which this website is based, we also study why people lie (or rather: lie not). 
+In the [research paper](http://ftp.iza.org/dp10188.pdf) on which this website is based, we also study why people lie (or rather: lie so little). 
 
-Many ideas have been suggested to explain the behavior in the die-rolling or coin-tossing experiments. We formalize all of these ideas, i.e., build mathematical models that capture the intuitive ideas suggested. The classes of models we consider cover three broad types of  motivations: a direct cost of lying (e.g., Ellingsen and Johannesson 2004, Kartik 2009); a valuation of some kind of reputation linked to the report (e.g., Mazar et al. 2008); and the influence of social norms and social comparisons, including guilt aversion (e.g., Weibull and Villa 2005,  Charness and Dufwenberg 2006). We also consider numerous extensions, combinations and mixtures of the aforementioned models (e.g., Kajackaite and Gneezy 2015, Boegli et al. 2016) including several new models that, to us, seemed plausible. For all models we make minimal assumptions on the functional form and allow for full heterogeneity of preference parameters, thus allowing us to derive very general conclusions. 
+Many ideas have been suggested to explain the behavior in the die-rolling or coin-tossing experiments. In our paper, we formalize all of these ideas, i.e., we build mathematical models that capture the intuitive ideas suggested. The classes of models we consider cover three broad types of  motivations: a direct cost of lying (e.g., Ellingsen and Johannesson 2004, Kartik 2009); a valuation of some kind of reputation linked to the report (e.g., Mazar et al. 2008); and the influence of social norms and social comparisons, including guilt aversion (e.g., Weibull and Villa 2005,  Charness and Dufwenberg 2006). We also consider numerous extensions, combinations and mixtures of the aforementioned models (e.g., Kajackaite and Gneezy 2015, Boegli et al. 2016) including several new models that, to us, seemed plausible. For all models we make minimal assumptions on the functional form and allow for full heterogeneity of preference parameters, thus allowing us to derive very general conclusions. 
 
-The literature (up to when we started this project) is not very good at distinghuishing between these models. As a consequence, the meta study can also be explained by many different motives. 
+The literature (up to when we started this project) is not very good at distinguishing between these models. As a consequence, the meta study can also be explained by many different motives. 
 
 One of the key insights of our research paper is identifying four empirical tests that can differentiate between the models. We show that the models differ in (i) how the distribution of true states affects one's report; (ii) how the belief about the reports of other subjects influences one's report; (iii) whether the observability of the true state affects one's report; (iv) whether some subjects will lie downwards, i.e. report a state that yields a lower payoff than their true state, when the true state is observable. 
 
