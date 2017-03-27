@@ -679,3 +679,22 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+.embedded-iframe {
+    position: relative
+}
+
+.embedded-iframe  {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.embedded-iframe IFRAME {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
