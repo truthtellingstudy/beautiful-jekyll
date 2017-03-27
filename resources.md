@@ -10,10 +10,10 @@ XXX License; cite us
 You can find the source code for all elements of this project in our [github repository](https://github.com/truthtellingstudy).
 
 This includes 
-* Stata code for the meta study and the static graphs in the [research paper](http://ftp.iza.org/dp10188.pdf)
-* The entire data set for replication
-* R/Shiny code for the interactive graphs on this website
-* The code for this website itself.
+* Stata code for the meta study and the static graphs in the [research paper](http://ftp.iza.org/dp10188.pdf),
+* the entire data set for replication (in Stata and csv forms),
+* R/Shiny code for the interactive graphs on this website, 
+* and the code for this website itself.
 
 If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](XXX).
 
