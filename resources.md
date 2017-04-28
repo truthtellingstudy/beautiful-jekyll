@@ -21,14 +21,14 @@ You can imbed the interactive graphs into your website by using the following di
 
 Figure 1 (average report vs. incentives): [http://purl.org/truthtellingstudy/figure1](http://purl.org/truthtellingstudy/figure1)
 
-Figure 2 (distribution of reports within treatment): [https://livedataoxford.shinyapps.io/experimental_economics_iframe2/](https://livedataoxford.shinyapps.io/experimental_economics_iframe2/)
+Figure 2 (distribution of reports within treatment): [http://purl.org/truthtellingstudy/figure2](http://purl.org/truthtellingstudy/figure2)
 
-Figure 3: (XXX): XXX
+Figure 3: (XXX): [http://purl.org/truthtellingstudy/figure3](http://purl.org/truthtellingstudy/figure3)
 
-Figure 4: (XXX): XXX
+Figure 4: (XXX): [http://purl.org/truthtellingstudy/figure4](http://purl.org/truthtellingstudy/figure4)
 
-Figure 5: (XXX): XXX
+Figure 5: (XXX): [http://purl.org/truthtellingstudy/figure5](http://purl.org/truthtellingstudy/figure5)
 
-Figure 6: (XXX): XXX
+Figure 6: (XXX): [http://purl.org/truthtellingstudy/figure6](http://purl.org/truthtellingstudy/figure6)
 
 
