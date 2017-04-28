@@ -19,7 +19,7 @@ If you want to use the static graphs in a presentation or publication, high-reso
 
 You can imbed the interactive graphs into your website by using the following direct links:
 
-Figure 1 (average report vs. incentives): [https://livedataoxford.shinyapps.io/experimental_economics_iframe1/](https://livedataoxford.shinyapps.io/experimental_economics_iframe1/)
+Figure 1 (average report vs. incentives): [http://purl.org/truthtellingstudy/figure1](http://purl.org/truthtellingstudy/figure1)
 
 Figure 2 (distribution of reports within treatment): [https://livedataoxford.shinyapps.io/experimental_economics_iframe2/](https://livedataoxford.shinyapps.io/experimental_economics_iframe2/)
 
