@@ -686,7 +686,7 @@ td.gutter {
 
 .embedded-iframe .ratio-img {
     display: block;
-    width: 100% !important;
+    width: 120% !important;
     height: auto !important;
 }
 
