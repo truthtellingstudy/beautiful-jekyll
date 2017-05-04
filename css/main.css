@@ -696,7 +696,7 @@ td.gutter {
 }
 
 .embedded-iframe IFRAME {
-    position: relative;
+    position: absolute;
     top: 0;
     left: 50;
     width: 120%;
