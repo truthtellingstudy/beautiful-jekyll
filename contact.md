@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />  &emsp; &emsp; <img src="https://truthtellingstudy.github.io/img/amherst_logo.png"   height="100" />
+<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />  &emsp; &emsp;  <img src="https://truthtellingstudy.github.io/img/amherst_logo.png"   height="100" />
 
 
 ### Contact
