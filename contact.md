@@ -3,6 +3,9 @@ layout: page
 title: ""
 ---
 
+<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />     <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />   <img src="https://truthtellingstudy.github.io/img/amherst_logo.png"   height="100" />
+
+
 ### Contact
 
 The content of this website is based on the research paper ["Preferences for truth-telling"](http://ftp.iza.org/dp10188.pdf) by Johannes Abeler, Daniele Nosenzo and Collin Raymond. 
