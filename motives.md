@@ -30,12 +30,12 @@ To test the influence of subjects' beliefs about what others report (test (ii)),
 
 To test the influence of the observability of the true state (test (iii)), we implement the random draw on the computer and are thus able to recover the true state. We use a double-blind procedure to alleviate subjects' concerns about indirect monetary consequences of lying, e.g., being excluded from future experiments. We find significantly less over-reporting in the treatment in which the true state is observable compared to when it is not. 
 
-<img src="https:// truthtellingstudy.github.io/img/observable.png " alt="Result for test 3" width="500" >
+<img src="https://truthtellingstudy.github.io/img/observable.png" alt="Result for test 3" width="500" >
 
 
 Moreover, we find that no subject lies downwards in this treatment (test (iv)). These findings are again inconsistent with lying-cost models and social-comparison models since in those models utility does not depend on the observability of the true state.
 
-<img src="https:// truthtellingstudy.github.io/img/observable.png " alt="Result for test 4" width="500" >
+<img src="https://truthtellingstudy.github.io/img/indanon.png" alt="Result for test 4" width="500" >
 
 
 At the end of the research paper, we compare the predictions of the models to the gathered empirical evidence. The main empirical finding is that our four tests rule out almost all of the models previously suggested in the literature. From the set of models we consider, only combining a preference for being honest with a preference for being seen as honest (or a model whose intuition and prediction are very similar) can explain the data. This intuition is also present in Frankel and Kartik (2016) and the concurrent papers by Khalmetski and Sliwka (2016) and Gneezy et al. (2016). We then turn to calibrating a simple version of our model, showing that it can quantitatively match all the stylized facts we uncovered in the meta study and the patterns in our new experiments. In the model, individuals suffer a cost that is proportional to the monetary gain from lying and a cost that is linear in the probability that they lied (given their report and the equilibrium report). Both cost components are important. 
