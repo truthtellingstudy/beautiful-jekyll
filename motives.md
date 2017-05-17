@@ -19,7 +19,7 @@ In the research paper, we then conduct new laboratory experiments with more than
 
 To test the influence of the distribution of true states (test (i)), we let subjects draw from an urn with two states and we change the probability of drawing the high-payoff state between treatments. Our comparative static is 1 minus the ratio of low-payoff reports to expected low-payoff draws. Under the assumption that individuals never lie downwards, this can be interpreted as the fraction of individuals who lie upwards. We find a very large treatment effect. When we move the share of true high-payoff states from 10 to 60 percent, the share of subjects who lie up increases by almost 30 percentage points (see below). This result falsifies direct lying-cost models because this cost only depends on the comparison of the report to the true state that was drawn but not on the prior probability of drawing the state.
 
-<img src="https://truthtellingstudy.github.io/img/binary_true_4s_reporting_10.png" alt="Result for test 1" style="width: 100px;"/>
+<img src="https://truthtellingstudy.github.io/img/binary_true_4s_reporting_10.png" alt="Result for test 1" width="100" height="100">
 
 
 
