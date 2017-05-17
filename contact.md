@@ -11,9 +11,9 @@ The content of this website is based on the research paper ["Preferences for tru
 XXX more
 
 
-#### Acknowledgments
+### Acknowledgments
 
-Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for XXX
+Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for XXX.
 
 We thank Martin Hadley for programming the interactive graphs.
 
@@ -25,9 +25,9 @@ discussions. Many valuable comments were also received from numerous seminar and
 
 We are very grateful to all authors who kindly shared their data for the meta study: Yuval Arbel, Alessandro
 Bucciol, Christopher Bryan, Julie Chytilová, Sophie Clot, Doru Cojoc, Julian Conrads, Daniel Effron, Anne
-Foerster, Toke Fosgaard, Simon Gächter, Holger Gerhardt, Andreas Glöckner, Joshua Greene, Benni Hilbig,
+Foerster, Toke Fosgaard, Simon Gächter, Holger Gerhardt, Andreas Glöckner, Joshua Greene, Leander Heldring, Benni Hilbig,
 David Hugh-Jones, Ting Jiang, Elina Khachatryan, Martina Kroher, Alan Lewis, Michel Marechal, Gerd
-Muehlheusser, David Pascual Ezama, Eyal Pe’er, Marco Piovesan, Matteo Ploner, Wojtek Przepiorka, Heiko
+Muehlheusser, Nathan Nunn, David Pascual Ezama, Eyal Pe’er, Marco Piovesan, Matteo Ploner, Wojtek Przepiorka, Heiko
 Rauhut, Tobias Regner, Rainer Rilke, Andreas Roider, Bradley Ruffle, Anne Schielke, Jonathan Schulz, Shaul
 Shalvi, Jan Stoop, Bruno J. Verschuere, Berenike Waubert de Puiseau, Niklas Wallmeier, Joachim Winter and
 Tobias Wolbring. 
