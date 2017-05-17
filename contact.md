@@ -11,7 +11,7 @@ The content of this website is based on the research paper ["Preferences for tru
 XXX more
 
 
-## Acknowledgments
+#### Acknowledgments
 
 Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for XXX
 
