@@ -12,9 +12,13 @@ Abeler, J., Nosenzo, D. & Raymond, C. (2016) Preferences for Truth-telling, IZA 
 
 
 The source code for this website is in our [github repository](https://github.com/truthtellingstudy).
+
 The Stata code for the meta study and the static graphs in the [research paper](http://ftp.iza.org/dp10188.pdf) will be available here  (coming soon).
+
 The entire data set for replication (in Stata and csv forms) will be available here (coming soon).
+
 The R/Shiny code for the interactive graphs on this website will be available here (coming soon).
+
 
 
 If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](XXX) (coming soon).
