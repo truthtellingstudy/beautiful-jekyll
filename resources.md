@@ -5,7 +5,9 @@ title: ""
 
 ### Resources
 
-All data on this website is made available under the CC-BY license. This means that you can reuse it, as long as you cite us: 
+All data on this website is made available under the CC-BY license. This means that as long as you credit us. Please link back to this page or include the following citation:
+
+Abeler, J., Nosenzo, D. & Raymond, C. (2016) Preferences for Truth-telling, IZA Discussion Paper 10188, http://ftp.iza.org/dp10188.pdf
 
 
 
