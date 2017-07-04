@@ -12,7 +12,9 @@ The content of this website is based on the research paper ["Preferences for tru
 
 
 Johannes Abeler: johannes.abeler@economics.ox.ac.uk
+
 Daniele Nosenzo: daniele.nosenzo@nottingham.ac.uk
+
 Collin Raymond: collinbraymond@gmail.com
 
 
