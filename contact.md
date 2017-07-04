@@ -8,15 +8,17 @@ title: ""
 
 ### Contact
 
-The content of this website is based on the research paper ["Preferences for truth-telling"](http://ftp.iza.org/dp10188.pdf) by Johannes Abeler, Daniele Nosenzo and Collin Raymond. 
+The content of this website is based on the research paper ["Preferences for truth-telling"](http://ftp.iza.org/dp10188.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home). 
 
 
-XXX more
+Johannes Abeler: johannes.abeler@economics.ox.ac.uk
+Daniele Nosenzo: daniele.nosenzo@nottingham.ac.uk
+Collin Raymond: collinbraymond@gmail.com
 
 
 ### Acknowledgments
 
-Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for XXX.
+Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for for financial support.
 
 We thank Martin Hadley for programming the interactive graphs.
 
