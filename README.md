@@ -68,7 +68,7 @@ Bucciol, Christopher Bryan, Julie Chytilová, Sophie Clot, Doru Cojoc, Julian Co
 Foerster, Toke Fosgaard, Simon Gächter, Holger Gerhardt, Andreas Glöckner, Joshua Greene, Leander Heldring, Benni Hilbig,
 David Hugh-Jones, Ting Jiang, Elina Khachatryan, Martina Kroher, Alan Lewis, Michel Marechal, Gerd
 Muehlheusser, Nathan Nunn, David Pascual Ezama, Eyal Pe’er, Marco Piovesan, Matteo Ploner, Wojtek Przepiorka, Heiko
-Rauhut, Tobias Regner, Rainer Rilke, Andreas Roider, Bradley Ruffle, Anne Schielke, Jonathan Schulz, Shaul
+Rauhut, Tobias Regner, Rainer Rilke, Ismael Rodriguez-Lara, Andreas Roider, Bradley Ruffle, Anne Schielke, Jonathan Schulz, Shaul
 Shalvi, Jan Stoop, Bruno J. Verschuere, Berenike Waubert de Puiseau, Niklas Wallmeier, Joachim Winter and
 Tobias Wolbring. 
 
