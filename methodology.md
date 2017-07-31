@@ -4,7 +4,7 @@ social-share: true
 ---
 
 
-### Methodology2
+### Methodology
 
 The meta study covers 90 experimental studies containing 429 treatment conditions. We include all studies using the setup introduced by Fischbacher and Föllmi-Heusi (2013), i.e., in which subjects conduct a random draw and then report their outcome of the draw. We require that the true draw is unknown to the experimenter but that the experimenter knows the distribution of the random draw. We also include studies in which subjects report whether their prediction of a random draw was correct (as in Jiang 2013). 
 
