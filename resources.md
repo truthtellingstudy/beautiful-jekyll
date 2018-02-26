@@ -23,6 +23,8 @@ The R/Shiny code for the interactive graphs on this website will be available [h
 
 If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](XXX) (coming soon).
 
+XXX
+
 You can imbed the interactive graphs into your website by using the following direct links:
 
 Figure 1 (Average report and effect of incentives): [https://livedataoxford.shinyapps.io/experimental_economics_iframe1/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure1)
