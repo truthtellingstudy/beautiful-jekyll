@@ -53,7 +53,7 @@ Figure 6 (Individual-level analysis): [http://purl.org/truthtellingstudy/figure6
 
 ### Acknowledgments
 
-Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for for financial support.
+Johannes Abeler thanks the ESRC for financial support under grant ES/K001558/1. Daniele Nosenzo thanks the University of Nottingham for financial support.
 
 We thank Martin Hadley for programming the interactive graphs.
 
