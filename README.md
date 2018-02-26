@@ -1,6 +1,6 @@
 ### www.preferencesfortruthtelling.com
 
-<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />  &emsp; &emsp;  <img src="https://truthtellingstudy.github.io/img/amherst_logo.png"   height="100" />
+<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />  &emsp; &emsp;  <img src="https://truthtellingstudy.github.io/img/purdue_logo.png"   height="100" />
 
 
 ### Contact
@@ -60,7 +60,7 @@ We thank Martin Hadley for programming the interactive graphs.
 We thank Steffen Altmann, Steve Burks, Gary Charness, Vince Crawford, Armin Falk, Urs Fischbacher, Simon Gächter,
 Philipp Gerlach, Tobias Gesche, David Gill, Uri Gneezy, Andreas Grunewald, David Huffman, Navin Kartik,
 Michael Kosfeld, Erin Krupka, Dmitry Lubensky, Daniel Martin, Takeshi Murooka, Simone Quercia, Heiner
-Schuhmacher, Daniel Seidman, Klaus Schmidt, Joel Sobel, Marie Claire Villeval and Joachim Winter for helpful
+Schuhmacher, Daniel Seidman, Klaus Schmidt, Jonathan Schulz, Joel Sobel, Marie Claire Villeval and Joachim Winter for helpful
 discussions. Many valuable comments were also received from numerous seminar and conference participants.
 
 We are very grateful to all authors who kindly shared their data for the meta study: Yuval Arbel, Alessandro
