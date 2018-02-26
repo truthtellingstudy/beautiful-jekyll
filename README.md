@@ -1,6 +1,6 @@
 ### www.preferencesfortruthtelling.com
 
-<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="100" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="100" />  &emsp; &emsp;  <img src="https://truthtellingstudy.github.io/img/purdue_logo.png"   height="100" />
+<img src="https://truthtellingstudy.github.io/img/oxford_logo.png"  height="90" />   &emsp; &emsp;   <img src="https://truthtellingstudy.github.io/img/nottingham_logo.png"   height="90" />  &emsp; &emsp;  <img src="https://truthtellingstudy.github.io/img/purdue_logo.png"   height="90" />
 
 
 ### Contact
