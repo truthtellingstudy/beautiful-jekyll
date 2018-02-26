@@ -27,16 +27,16 @@ XXX
 
 You can imbed the interactive graphs into your website by using the following direct links:
 
-Figure 1 (Average report and effect of incentives): [https://livedataoxford.shinyapps.io/experimental_economics_iframe1/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure1)
+Figure 1 (Average report and effect of incentives): [https://livedataoxford.shinyapps.io/experimental_economics_iframe1/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe1/?allowPopout=TRUE)
 
-Figure 2 (Distribution of reports): [https://livedataoxford.shinyapps.io/experimental_economics_iframe2/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure2)
+Figure 2 (Distribution of reports): [https://livedataoxford.shinyapps.io/experimental_economics_iframe2/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe2/?allowPopout=TRUE)
 
-Figure 3 (Men vs. women): [https://livedataoxford.shinyapps.io/experimental_economics_iframe3/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure3)
+Figure 3 (Men vs. women): [https://livedataoxford.shinyapps.io/experimental_economics_iframe3/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe3/?allowPopout=TRUE)
 
-Figure 4 (Country): [https://livedataoxford.shinyapps.io/experimental_economics_iframe4/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure4)
+Figure 4 (Country): [https://livedataoxford.shinyapps.io/experimental_economics_iframe4/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe4/?allowPopout=TRUE)
 
-Figure 5 (Repetition): [https://livedataoxford.shinyapps.io/experimental_economics_iframe5/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure5)
+Figure 5 (Repetition): [https://livedataoxford.shinyapps.io/experimental_economics_iframe5/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe5/?allowPopout=TRUE)
 
-Figure 6 (Individual-level analysis): [https://livedataoxford.shinyapps.io/experimental_economics_iframe6/?allowPopout=TRUE](http://purl.org/truthtellingstudy/figure6)
+Figure 6 (Individual-level analysis): [https://livedataoxford.shinyapps.io/experimental_economics_iframe6/?allowPopout=TRUE](https://livedataoxford.shinyapps.io/experimental_economics_iframe6/?allowPopout=TRUE)
 
 
