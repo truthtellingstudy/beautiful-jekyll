@@ -8,7 +8,7 @@ title: ""
 
 ### Contact
 
-The content of this website is based on the research paper ["Preferences for truth-telling"](http://ftp.iza.org/dp10188.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home). 
+The content of this website is based on the research paper ["Preferences for truth-telling"](http://ftp.iza.org/dp10188.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home), forthcoming in Econometrica. 
 
 
 Johannes Abeler: johannes.abeler@economics.ox.ac.uk
