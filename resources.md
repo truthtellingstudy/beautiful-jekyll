@@ -7,21 +7,22 @@ title: ""
 
 All data on this website is made available under the CC-BY license. This means that you can reuse it as long as you credit us. Please link back to this page (www.preferencesfortruthtelling.com) or include the following citation:
 
-Abeler, J., Nosenzo, D. & Raymond, C. (2016) Preferences for Truth-telling, IZA Discussion Paper 10188, http://ftp.iza.org/dp10188.pdf
+Abeler, J., Nosenzo, D. & Raymond, C. (forthcoming) Preferences for Truth-telling, Econometrica
+
 
 
 
 The source code for this website is in our [github repository](https://github.com/truthtellingstudy/truthtellingstudy.github.io).
 
-The Stata code for the meta study and the static graphs in the [research paper](http://ftp.iza.org/dp10188.pdf) will be available [here](XXX)   (coming soon).
+The Stata code for the meta study and the static graphs in the research paper ([ungated version](http://www.cesifo-group.de/DocDL/cesifo1_wp6087.pdf)) is [here](https://ndownloader.figshare.com/files/16211414).
 
-The entire data set for replication (in Stata and csv forms) will be available [here](XXX) (coming soon).
+The entire data set of the meta study (in csv forms) is [here](https://ndownloader.figshare.com/files/16211150).
 
-The R/Shiny code for the interactive graphs on this website will be available [here](XXX)  (coming soon).
+The R/Shiny code for the interactive graphs on this website is available [here](XXX) (coming soon).
 
 
 
-If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](XXX) (coming soon).
+If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](https://github.com/truthtellingstudy/truthtellingstudy.github.io/raw/master/AbelerNosenzoRaymond%20-%20FFH%20meta%20study.pptx).
 
 
 
