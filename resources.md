@@ -10,6 +10,8 @@ All data on this website is made available under the CC-BY license. This means t
 Abeler, J., Nosenzo, D. & Raymond, C. (forthcoming) Preferences for Truth-telling, Econometrica
 
 
+&nbsp;
+
 
 
 The source code for this website is in our [github repository](https://github.com/truthtellingstudy/truthtellingstudy.github.io).
