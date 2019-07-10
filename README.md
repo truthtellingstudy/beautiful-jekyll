@@ -19,9 +19,11 @@ Collin Raymond: collinbraymond@gmail.com
 
 All data on this website is made available under the CC-BY license. This means that you can reuse it as long as you credit us. Please link back to this page (www.preferencesfortruthtelling.com) or include the following citation:
 
+&nbsp;
+
 Abeler, J., Nosenzo, D. & Raymond, C. (forthcoming) Preferences for Truth-telling, Econometrica
 
-
+&nbsp;
 
 The source code for this website is in our [github repository](https://github.com/truthtellingstudy/truthtellingstudy.github.io).
 
