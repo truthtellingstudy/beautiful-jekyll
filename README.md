@@ -33,7 +33,7 @@ The R/Shiny code for the interactive graphs on this website is available [here](
 
 
 
-If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](https://github.com/truthtellingstudy/truthtellingstudy.github.io/blob/master/AbelerNosenzoRaymond%20-%20FFH%20meta%20study.pptx).
+If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](https://github.com/truthtellingstudy/truthtellingstudy.github.io/raw/master/AbelerNosenzoRaymond%20-%20FFH%20meta%20study.pptx).
 
 You can imbed the interactive graphs into your website by using the following direct links:
 
