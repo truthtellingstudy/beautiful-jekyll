@@ -16,7 +16,7 @@ J. Abeler, D. Nosenzo and C. Raymond. Preferences for truth-telling. Econometric
   
 
 
-J. Abeler, A. Becker, and A. Falk. Representative evidence on lying costs. Journal of Public Economics, 113:96–104, 2014. [link](http://www.sciencedirect.com/science/article/pii/S0047272714000061)
+J. Abeler, A. Becker, and A. Falk. Representative evidence on lying costs. Journal of Public Economics, 113:96–104, 2014. [direct link](http://www.sciencedirect.com/science/article/pii/S0047272714000061)
    
 
 J. Abeler. A reporting experiment with Chinese professionals. mimeo, 2015.
