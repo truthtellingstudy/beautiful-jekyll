@@ -24,7 +24,7 @@ The entire data set of the meta study (in csv forms) is [here](https://ndownload
 
 The R/Shiny code for the interactive graphs on this website is available [here](http://doi.org/10.6084/m9.figshare.5539942).
 
-
+ 
 
 If you want to use the static graphs in a presentation or publication, high-resolution pictures are included in this sample [PowerPoint presentation](https://github.com/truthtellingstudy/truthtellingstudy.github.io/raw/master/AbelerNosenzoRaymond%20-%20FFH%20meta%20study.pptx).
 
