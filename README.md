@@ -5,7 +5,7 @@
 
 ### Contact
 
-The content of this website is based on the research paper ["Preferences for truth-telling"](http://www.cesifo-group.de/DocDL/cesifo1_wp6087.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home). 
+The content of this website is based on the research paper ["Preferences for truth-telling"](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home). 
 
 
 Johannes Abeler: johannes.abeler@economics.ox.ac.uk
@@ -27,7 +27,7 @@ Abeler, J., Nosenzo, D. & Raymond, C. (forthcoming) Preferences for Truth-tellin
 
 The source code for this website is in our [github repository](https://github.com/truthtellingstudy/truthtellingstudy.github.io).
 
-The Stata code for the meta study and the static graphs in the [research paper](http://www.cesifo-group.de/DocDL/cesifo1_wp6087.pdf) is [here](https://ndownloader.figshare.com/files/16211414).
+The Stata code for the meta study and the static graphs in the [research paper](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf) is [here](https://ndownloader.figshare.com/files/16211414).
 
 The entire data set of the meta study (in csv forms) is [here](https://ndownloader.figshare.com/files/16211150).
 
