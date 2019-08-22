@@ -7,7 +7,7 @@ title: ""
 
 This website is based on the data and analyses of:
 
-J. Abeler, D. Nosenzo and C. Raymond. Preferences for truth-telling. Econometrica forthcoming. [link](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf)
+J. Abeler, D. Nosenzo and C. Raymond. Preferences for truth-telling. Econometrica, 87 (4), 1115–1153, 2019. [link](https://doi.org/10.3982/ECTA14673) and [ungated version](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf)
 
 <br>
 <br>
