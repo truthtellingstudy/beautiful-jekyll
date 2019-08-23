@@ -8,7 +8,7 @@ title: ""
 
 ### Contact
 
-The content of this website is based on the research paper ["Preferences for truth-telling"](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home), forthcoming in Econometrica. 
+The content of this website is based on the research paper ["Preferences for truth-telling"](https://www.cesifo.org/DocDL/cesifo1_wp6087_0.pdf) by [Johannes Abeler](https://sites.google.com/site/johannesabeler/), [Daniele Nosenzo](https://sites.google.com/site/danielenosenzoeconomics/) and [Collin Raymond](https://sites.google.com/site/collinbraymond/home), published in Econometrica (2019). 
 
 
 Johannes Abeler: johannes.abeler@economics.ox.ac.uk
